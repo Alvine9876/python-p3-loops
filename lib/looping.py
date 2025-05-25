@@ -7,12 +7,12 @@ def happy_new_year():
         print(i)
         i -= 1
         print("Happy New Year!")
-    pass
+    # pass
 
 def square_integers(int_list):
     # code goes here!
     return [x ** 2 for x in int_list]
-    pass
+    # pass
 
 def fizzbuzz():
     # code goes here!
@@ -25,4 +25,4 @@ def fizzbuzz():
             print("Buzz")
         else:
             print(i)
-    pass
+    # pass
